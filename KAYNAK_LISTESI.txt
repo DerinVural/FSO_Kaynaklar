@@ -1,0 +1,32 @@
+﻿01_Kitaplar_Tezler_DersNotlari\Kaushal_Jain_Kar - Free Space Optical Communication (Springer kitap).pdf	<-	C:\Users\derin\Downloads\402830275-Free-Space-Optical-Communication-pdf.pdf
+01_Kitaplar_Tezler_DersNotlari\Ho 2007 - PAT Systems for FSO Links (PhD tezi, UMD).pdf	<-	C:\Users\derin\Downloads\umi-umd-4210.pdf
+01_Kitaplar_Tezler_DersNotlari\ECE 474 OPTICAL COMMUNICATION SYSTEMS+LAB_COURSE NOTES.pdf	<-	C:\Users\derin\Downloads\ECE 474 OPTICAL COMMUNICATION SYSTEMS+LAB_COURSE NOTES.pdf
+02_Survey_Genel_Bakis\Survey_on_Free_Space_Optical_Communication_A_Communication_Theory_Perspective.pdf	<-	C:\Users\derin\Desktop\Optik haberleşme makaleler\Survey_on_Free_Space_Optical_Communication_A_Communication_Theory_Perspective.pdf
+02_Survey_Genel_Bakis\Free-Space-Optical-Communications-An-Overview.pdf	<-	C:\Users\derin\Desktop\ML_Turbulance\Free-Space-Optical-Communications-An-Overview.pdf
+02_Survey_Genel_Bakis\Free Space Optical Communication Challenges.pdf	<-	C:\Users\derin\Desktop\ML_Turbulance\Free Space Optical Communication Challenges.pdf
+02_Survey_Genel_Bakis\Free_Space_Optical_Communication_Challenges_and_Mitigation (Downloads surumu).pdf	<-	C:\Users\derin\Downloads\Free_Space_Optical_Communication_Challenges_and_Mi.pdf
+02_Survey_Genel_Bakis\FSO-Based_Multi-Layer_Airborne_Backhaul_Networks.pdf	<-	C:\Users\derin\Downloads\FSO-Based_Multi-Layer_Airborne_Backhaul_Networks (1).pdf
+03_Atmosfer_Turbulans\Jiang 2025 - Turbulence anisoplanatism on LEO sat-to-ground laser links (OE).pdf	<-	C:\Users\derin\Desktop\ML_Turbulance\atmosfer_on_sat.pdf
+03_Atmosfer_Turbulans\Banakh - Turbulence effect on ground-to-satellite optical link.pdf	<-	C:\Users\derin\Desktop\ML_Turbulance\SAT-TO-GRND_GRND_TO_SAT.pdf
+03_Atmosfer_Turbulans\Atmospheric Turbulence Study with Deep Machine.pdf	<-	C:\Users\derin\Desktop\ML_Turbulance\Atmospheric Turbulence Study with Deep Machine.pdf
+04_PAT_Isaretleme_Takip\Moon 2023 - Pointing-and-Acquisition for Optical Wireless in 6G (arXiv 2309.10999).pdf	<-	C:\Users\derin\Downloads\2309.10999v1.pdf
+04_PAT_Isaretleme_Takip\Kern_Kugel (TELDIX) - PAT Subsystems for Optical Space Comm.pdf	<-	C:\Users\derin\Downloads\97.pdf
+04_PAT_Isaretleme_Takip\Riesing 2022 - PAT for the TBIRD CubeSat mission (SPIE).pdf	<-	C:\Users\derin\Downloads\Riesing-SPIE-2022-v5.pdf
+04_PAT_Isaretleme_Takip\calibration-and-verification-of-pointing-and-tracking-system-for-optical-communication-terminal.pdf	<-	C:\Users\derin\Desktop\Optik haberleşme makaleler\calibration-and-verification-of-pointing-and-tracking-system-for-optical-communication-terminal.pdf
+04_PAT_Isaretleme_Takip\High-accuracy pointing and sub-second acquisition in a spacce optical comm terminal with ground-based verification.pdf	<-	C:\Users\derin\Desktop\Optik haberleşme makaleler\High-accuracy pointing and sub-second acquisition in a spacce optical comm terminal with ground-based verification.pdf
+04_PAT_Isaretleme_Takip\US20070229994A1 - Pointable optical system with coude optics (patent).pdf	<-	C:\Users\derin\Desktop\ML_Turbulance\coude gimbal.pdf
+04_PAT_Isaretleme_Takip\Laser Terminal Attitude Determination via Autonomous Star Tracking.pdf	<-	C:\Users\derin\Documents\Github\star_tracker_system_design\docs\sources\papers\Laser Terminal Attitude Deterrninatioii via Autonomous Star Trackhig.pdf
+04_PAT_Isaretleme_Takip\Maurer_Boone - Accurate imaging star tracker for deep-space optical comm.pdf	<-	C:\Users\derin\Documents\Github\star_tracker_system_design\docs\sources\papers\Conceptual design and algorithm evaluation for a very accurate.pdf
+05_Terminal_Verici_Test\10-Gbps-Transmission-from-a-High-Power-EDFA-for-Free-Space-Communications.pdf	<-	C:\Users\derin\Desktop\Optik haberleşme makaleler\10-Gbps-Transmission-from-a-High-Power-EDFA-for-Free-Space-Communications.pdf
+05_Terminal_Verici_Test\Demonstration of a cost-effective double-clad fiber-coupled laser.pdf	<-	C:\Users\derin\Desktop\Optik haberleşme makaleler\Demonstration of a cost-effective double-clad fiber-coupled laser.pdf
+05_Terminal_Verici_Test\Laser_Communication_Test_System_Based_on_Ten_Gigabit_Ethernet.pdf	<-	C:\Users\derin\Desktop\Optik haberleşme makaleler\Laser_Communication_Test_System_Based_on_Ten_Gigabit_Ethernet.pdf
+05_Terminal_Verici_Test\The design of laser communication terminal test and evaluation station.pdf	<-	C:\Users\derin\Desktop\Optik haberleşme makaleler\The design of laser communication terminal test and evaluation station.pdf
+05_Terminal_Verici_Test\Gao 2022 - Multi-modulation compatible miniaturized FSO system with chirp-managed laser (OE).pdf	<-	C:\Users\derin\Downloads\Mult-modulation compatible.pdf
+05_Terminal_Verici_Test\Jain (ISRO) - RZ-OOK Modulation for High Speed Optical Data Transmission.pdf	<-	C:\Users\derin\Downloads\adars_RZOOK.pdf
+06_Terminal_Datasheetleri_Pazar\Tesat SCOT20 datasheet.pdf	<-	C:\Users\derin\Downloads\datasheet-tesat-spacecom-gmbh-co-kg-scot20-smallsat-optical-communication-terminal-fl1jn4.pdf
+06_Terminal_Datasheetleri_Pazar\Tesat SCOT135 datasheet.pdf	<-	C:\Users\derin\Downloads\datasheet-tesat-spacecom-gmbh-co-kg-scot135-optical-communication-terminal-for-multi-orbit-connectivity-3alqgn.pdf
+06_Terminal_Datasheetleri_Pazar\Odysseus Cyclops DTE datasheet.pdf	<-	C:\Users\derin\Downloads\Cyclops DTE_Datasheet.pdf
+06_Terminal_Datasheetleri_Pazar\Odysseus Cyclops datasheet (satsearch).pdf	<-	C:\Users\derin\Downloads\datasheet-odysseus-space-cyclops-nh9f1x.pdf
+06_Terminal_Datasheetleri_Pazar\Astrolight ATLAS-1 datasheet.pdf	<-	C:\Users\derin\Downloads\satsearch_datasheet_r6nda4_astrolight_atlas-1.pdf
+06_Terminal_Datasheetleri_Pazar\Stellar Project LaserCube datasheet.pdf	<-	C:\Users\derin\Downloads\satsearch_datasheet_uzxmte_stellar-project_lasercube.pdf
+06_Terminal_Datasheetleri_Pazar\Optical_Satellite_Communication_Market.pdf	<-	C:\Users\derin\Downloads\Optical_Satellite_Communication_Market.pdf
